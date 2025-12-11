@@ -1,6 +1,5 @@
-# prodigy_wd_02
-https://sangamitraparamesh.github.io/prodigy_wd_02/
-
+# stopwatch
+https://sangamitraparamesh.github.io/stopwatch/
 ---
 
 ## 🔹 Table of Contents
